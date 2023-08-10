@@ -1,7 +1,7 @@
 const protofolioData = [
     { title: "Proyek 1", description: "Deskripsi Proyek 1" },
-    { title: "Proyek 1", description: "Deskripsi Proyek 2" },
-    { title: "Proyek 1", description: "Deskripsi Proyek 3" }
+    { title: "Proyek 2", description: "Deskripsi Proyek 2" },
+    { title: "Proyek 3", description: "Deskripsi Proyek 3" }
 ]
 
 const protofolioContainer = document.getElementById("portofolioContainer")
