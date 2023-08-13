@@ -55,3 +55,8 @@ body {
     padding: 1 em;
     background-color: #f4f4f4;
   }
+
+  .pokemon{
+    text-align: center;
+    align-items: center;
+  }
