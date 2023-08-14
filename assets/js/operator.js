@@ -19,3 +19,14 @@ for (let i = 1; i <= 100; i++) {
   }
 }
 
+import React from 'react'
+
+const operator = () => {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default operator
