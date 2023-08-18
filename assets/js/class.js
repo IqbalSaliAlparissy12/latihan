@@ -16,7 +16,7 @@
 // console.log(student_func_3);
 // console.log(student_func_4);
 
-class student{
+class Student{
     #nama
     #kelas
     #gender
